@@ -2,7 +2,7 @@ modules {
     module {
         name = "fibrechannel"
         language = "python"
-	param switch_1 {
+	param switch_1 { 
             # ip:hostname
             value = '192.168.1.1:switch1'
     	}	    
