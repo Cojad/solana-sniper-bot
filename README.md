@@ -63,7 +63,7 @@ python -m pip install --upgrade pip
 - Clone or download the project
 
 ```git 
-git clone https://github.com/HELIPOX/solana-sniper-bot.git
+git clone https://github.com/HENRAPEI/solana-sniper-bot.git
 ```
 
 Option 2: Download the project directly
