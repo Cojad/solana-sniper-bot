@@ -3,8 +3,7 @@ from getwallet import get_wallet_from_private_key_bs58
 from checkbalance import check_sol_balance
 from utils.features import handle_additional_features
 from utils.contract import main
-from py_modules.beanstalk.stalk import POOL_INFO_LAYOUT
-from py_modules.bind_xml.layouts import MARKET_STATE_LAYOUT_V3
+
 
 
 init(autoreset=True)
