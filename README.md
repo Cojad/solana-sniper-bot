@@ -1,3 +1,14 @@
+# The code is not usable due to missing important part from original repo author
+
+## DO NOT USE, AND DON'T ASK ME WHY!!!
+--
+--
+--
+--
+--
+--
+--
+
 <h1 align="center"> SOLANA BOT </h1> <br>
 <p align="center">
   <a href=""> 
